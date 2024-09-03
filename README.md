@@ -29,8 +29,6 @@ To get started with the Simple Calculator App:
 
 Check out our video tutorial to see the Simple Calculator App in action!
 
-[Watch the Video Tutorial Here](<video-url>)
-
 
 https://github.com/user-attachments/assets/06366fdc-744a-4924-afe5-3a24dd1464a2
 
