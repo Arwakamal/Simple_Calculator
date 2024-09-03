@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="c">C</string>
+    <string name="left_parenthesis">(</string>
+    <string name="right_parenthesis">)</string>
+    <string name="division_sign">÷</string>
+</resources>
