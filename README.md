@@ -1,6 +1,6 @@
 # Simple Calculator App
 
-Welcome to the Simple Calculator App! This Android application, developed using Kotlin, provides a user-friendly interface for performing basic arithmetic operations. Whether you need to add, subtract, multiply, or divide, this app has you covered.
+Welcome to the Simple Calculator App! This Android application, developed using Kotlin, provides a user-friendly interface for performing basic arithmetic operations. Whether you need to add, subtract, multiply, or divide, this app covers you.
 
 ## Features
 
@@ -13,9 +13,8 @@ Welcome to the Simple Calculator App! This Android application, developed using 
 To get started with the Simple Calculator App:
 
 1. Clone this repository:
-   ```bash
+```bash
 git clone https://github.com/Arwakamal/Simple_Calculator.git
-
 ```
 2. Open the project in Android Studio.
 3. Build and run the app on your Android device or emulator.
